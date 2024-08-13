@@ -1,5 +1,14 @@
 # Investment_-Analysis-Power-BI
 
+## Table of Contents
+- [Project of the project](#objective-of-the-project)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Steps I Followed](#steps-i-followed)
+- [Insights of the project](#insights-of-the-project)
+- [Key Insights of overall project](#key-insights-of-overall-project)
+
+
 
 ![Task 7 ( Final Dashboard- 1)](https://github.com/purvaphalak/Cognifyz_Power-BI_-Internship/assets/148857209/cd9cb778-c367-446b-8a46-91b66ee2071e)
 
@@ -14,6 +23,19 @@
 ➤ This includes analyzing key statistics, gender-based differences, and the relationship between savings goals and investment choices. 
 
 ➤ The project also aims to identify common reasons for investing and the sources of investment information, all of which will be summarized in a comprehensive, interactive dashboard.
+
+
+### Tools 
+
+- Excel - Data Cleaning
+- PowerBI- Creating Dashboards, Data Visualization
+
+ ### Data Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting
 
 
  ### ➡️ Steps I Followed:
